@@ -274,6 +274,7 @@ class HTML
     }
 }
 
+
 class Redirect
 {
     public function __construct($response)
